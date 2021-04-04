@@ -1,2 +1,2 @@
 # springcloud-config
-springboot 微服务配置中心
+springboot dev分支下的微服务配置中心
